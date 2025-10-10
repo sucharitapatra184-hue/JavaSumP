@@ -3,5 +3,7 @@ java Sum.java
 
 poll scm implentaion
 
-Hello SCM....
+Hello SCM....!!!
+Good Morning
+
 
